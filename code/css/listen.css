@@ -1,0 +1,12 @@
+.block{
+	border: 1px solid #333;
+	width: 20%;
+	height: 20%;
+	overflow:hidden;
+	position:absolute;
+	left:150px;
+	top:150px;
+}
+p{
+	padding: 2em;
+}

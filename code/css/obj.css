@@ -1,0 +1,15 @@
+.box{
+	border: 1px solid #333;
+	width: 50px;
+	height: 50px;
+}
+.dark{
+	background-color: #333;
+	color: #fff;
+	border: 3px solid teal;
+}
+.light{
+	background-color: #efefef;
+	color: #900;
+	border: 2px solid #333;
+}
